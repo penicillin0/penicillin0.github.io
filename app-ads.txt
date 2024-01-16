@@ -83,3 +83,5 @@ appnexus.com, 3663, RESELLER
 pubmatic.com, 161380, RESELLER, 5d62403b186f2ace
 appnexus.com,3663,RESELLER,f5ab79cb980f11d1
 yahoo.com,55029,RESELLER,e1a5b5b6e3255540
+smartadserver.com, 4194-OB, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4194, RESELLER, 060d053dcf45cbf3
