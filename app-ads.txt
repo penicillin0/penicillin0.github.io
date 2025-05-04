@@ -1,3 +1,5 @@
+google.com, pub-3134617329526824, DIRECT, f08c47fec0942fa0
+
 # m
 google.com, pub-2173174947121665, DIRECT, f08c47fec0942fa0
 google.com, pub-1147222891058732, DIRECT, f08c47fec0942fa0
@@ -825,8 +827,6 @@ video.unrulymedia.com, 322585001, RESELLER
 xandr.com, 13799, RESELLER
 xandr.com, 14082, RESELLER
 zmaticoo.com, 5135655, RESELLER
-# admob
-google.com, pub-3134617329526824, DIRECT, f08c47fec0942fa0
 # Chocolate
 chocolateplatform.com, 20046, RESELLER, 49a66ce31a704197
 pubmatic.com, 160888, RESELLER, 5d62403b186f2ace
